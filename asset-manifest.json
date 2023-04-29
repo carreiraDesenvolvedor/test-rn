@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.af6d6dbe.js",
+    "static/js/643.832e493f.js": "/static/js/643.832e493f.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome.ttf": "/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Feather.ttf": "/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/health-food.jpeg": "/static/media/health-food.b62bca09941634890335.jpeg",
+    "favicon.ico": "/favicon.ico",
+    "static/media/nurse.webp": "/static/media/nurse.857465a12f1b49150fb6.webp",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.af6d6dbe.js.map": "/static/js/main.af6d6dbe.js.map",
+    "643.832e493f.js.map": "/static/js/643.832e493f.js.map"
+  },
+  "entrypoints": [
+    "static/js/643.832e493f.js",
+    "static/js/main.af6d6dbe.js"
+  ]
+}
